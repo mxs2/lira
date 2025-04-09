@@ -1,0 +1,47 @@
+# Node.js / npm / yarn related
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build directories
+/dist/
+/build/
+/out/
+
+# Environment files (if you use environment variables)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# IDE settings (IntelliJ IDEA, WebStorm, etc.)
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+desktop.ini
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Optional: If you're using Docker and build images
+.docker/
+
+# Builder.io specific
+/.builder/
+
+# .vscode settings
+.vscode/
+
+# Other editor settings
+*.sublime-project
+*.sublime-workspace
