@@ -87,11 +87,19 @@ npm start
 
 ---
 
-# Protótipo
+## Protótipo
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVwNWdwa3JrODd4M2hwYTN4ZG50cTMzbm83NjE5NGk5M3B2NnIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C8ZoNpgUXRuyjc4nQV/giphy.gif"/>
 
 [Clique aqui para conferir](https://www.figma.com/proto/oJ9ufsbaJr8AG3USKD68Oz/Lira?node-id=1-13&t=Xqz8ot83MIXzlyAW-1)
+
+## Issue/Bug tracker 
+
+https://github.com/users/mxs2/projects/2/views/1 
+
+## Class Diagram 
+
+<img src=https://uml.planttext.com/plantuml/png/bLBBQiCm4BpxAnQVdBO9pTMKaDvRC9HyW69lx0LPQwHrGYZvzyeFjSY5akeYDBipenrfxqHPwLkTb5ev1mU75ZuJyElnGooP6h1Lf2EayvqNjbK46jLY11o9f_CRENbvxnsLE-ZOoebrA5ciVH5jDfhaC56VlXq2iihXp3GRQgx9tC4uCcjK9ZWvb69kYicHE5OaXUKJQSo6aNuS_3nBnYsPOnkdM-Gc93fEP10jb3GJs6brpNuflVRIe14gbH2R81bo6fxd_rdToLhaLV8PxT-9-LkF7oRTfh1UG_gysJoaSnWvDCh1BcxmssB077g7GzyUJUN_uHS0/>
 
 ## Contato
 
